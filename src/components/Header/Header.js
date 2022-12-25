@@ -22,7 +22,7 @@ function Header() {
     
     <div className='header'>
       <div className='logo'>
-      <Link to='/'>
+      <Link to='/Movies--project'>
         Movie App
       </Link>
       </div>
